@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: clarenceteokx@gmail.com
-    phone: 9435 5382
+    phone: +65 9435 5382
     timezone: GMT +08:00
     citizenship: Singaporean
     website: #blog.webjeda.com #do not add http://
@@ -28,7 +28,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf #to replace with gdrive link later after completing resume update
+    pdf: https://drive.google.com/file/d/1IXDlhuzXIupr6tZ_7pJy0McxcVLfRz_w/view?usp=sharing #to replace with gdrive link later after completing resume update
 
     languages:
       title: Languages
