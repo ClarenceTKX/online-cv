@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a highly motivated, meticulous, and strategic Computational Linguist, with analytical capabilities to discern language, acoustic problems and beyond. With experience in research and public R&D, I am able to contribute immensely to the development and management of NLP-related pipelines and formulate effective solutions.  
+      I am a highly motivated, meticulous, and strategic Computational Linguist, with analytical capabilities to discern language, acoustic problems and beyond. With experience in research and public R&D, I am able to contribute immensely to the development and management of NLP-related pipelines and formulate effective solutions. 
       I also have widely varied experiences in various leadership appointments and roles, possessing strong interpersonal skills with insights into conflict resolution, mediation, and psychological first aid. I am also highly adaptable and reliable in fast-paced working environments, providing meaningful judgement calls for stakeholders in urgent situations. 
 education:
     title: Education
@@ -58,7 +58,7 @@ education:
         university: Nanyang Technological University
         time: 2020 - 2024
         details: |
-          Expected Honours (Highest Distinction), cGPA: 4.48/5.00
+          Current: Honours (Distinction), cGPA: 4.48/5.00
 
           Specialising in Computational Linguistics, with experience in advanced statistical inference and acoustic modelling in R, and Natural Language Processing (NLP) techniques. 
 
@@ -67,9 +67,9 @@ education:
           Modules: HL5915 Undergraduate Research, CZ4042 Neural Networks and Deep Learning, HG4070 Experimental Phonetics, HG4052 Speech Synthesis and Recognition, HG4051 Corpus Linguistics
 
           Highlights: 
-            - Singapore Youth Leaders Programme 2023; held in conjunction with Ministry of Education under the Lee Kuan Yew Cetennial Fund for recognised young leaders in Singapore 
-            - SLDP03 Impactful Leadership; prestigious 7-month leadership programme held for high-impact student leaders
-            - NTU-SMC Mediation Unit (Undergraduate); trained in Dispute Resolution and Commercial Mediation (May - July 2022)
+            - Singapore Youth Leaders Programme 2023: held in conjunction with Ministry of Education under the Lee Kuan Yew Centennial Fund for recognised young leaders in Singapore
+            - SLDP03 Impactful Leadership: prestigious 7-month leadership programme held for high-impact student leaders
+            - NTU-SMC Mediation Unit (Undergraduate): trained in Dispute Resolution and Commercial Mediation (May - July 2022)
 
 #  Speech Recognition Pipelines, Sentiment Analysis, Topic Modelling, Hidden Markov Models (HMM), and
 
@@ -92,7 +92,7 @@ cocurriculars:
             - Provided guidance and strategic advice on event processes and management, and publicity efforts
 
 experiences:
-    title: Experiences
+    title: Work Experiences
     info:
       - role: NLP (Natural Language Processing) Data Scientist Intern
         time: May 2023 - Present
