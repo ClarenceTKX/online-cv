@@ -20,7 +20,7 @@ sidebar:
     linkedin: clarencetkx
     github: ClarenceTKX
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1IXDlhuzXIupr6tZ_7pJy0McxcVLfRz_w/view?usp=sharing 
+    pdf: https://drive.google.com/file/d/1DToTonNw6jOtaxID5rjTJ7zKvVnNmgVu/view?usp=sharing
 
     languages:
       title: Languages
@@ -62,7 +62,7 @@ education:
 
           Specialising in Computational Linguistics, with experience in advanced statistical inference and acoustic modelling in R, and Natural Language Processing (NLP) techniques. 
 
-          Awards/Titles: NTU President's Research Scholar; Lim Kim San Memorial Scholarship, CJ Koh Scholarship AY22/23, Meta Software Engineering (Professional Certificates) Scholarship 22-23
+          Awards/Titles: NTU President's Research Scholar, CoHASS Dean's List AY22/23; Lim Kim San Memorial Scholarship, CJ Koh Scholarship AY22/23, Meta Software Engineering (Professional Certificates) Scholarship 22-23
 
           Modules: HL5915 Undergraduate Research, CZ4042 Neural Networks and Deep Learning, HG4070 Experimental Phonetics, HG4052 Speech Synthesis and Recognition, HG4051 Corpus Linguistics
 
@@ -72,24 +72,6 @@ education:
             - NTU-SMC Mediation Unit (Undergraduate): trained in Dispute Resolution and Commercial Mediation (May - July 2022)
 
 #  Speech Recognition Pipelines, Sentiment Analysis, Topic Modelling, Hidden Markov Models (HMM), and
-
-cocurriculars:
-    title: Co-Curricular Activities 
-    info:
-      - role: Honorary General Secretary
-        time: Jul 2022 - Sep 2023 
-        organisation: Binjai Hall Council
-        details: |
-            - Led 5 portfolios (Sports, Cultural, Publicity and Publications, Residential Education)
-            - Managed governance policies of Binjai Hall Council through new Standard Operating Procedures (SOP), Standing Orders (SO), and process-specific documents and forms
-            - In charge of the AY22/23 CCA Records Exercise for >150 Binjai residents
-      - role: Founder
-        time: Aug 2021 - Present
-        organisation: Binjai AwaRE
-        details: |
-            - Materialised first organisational structure and guiding philosophy for undergraduate-led Residential Education club, Binjai AwaRE
-            - Oversaw ~20 events under the Environmental Awareness and Mental Wellbeing divisions
-            - Provided guidance and strategic advice on event processes and management, and publicity efforts
 
 experiences:
     title: Work Experiences
@@ -106,8 +88,8 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Full-Stack Software Engineer Professional Certificate (ongoing)
-          start: 2022
+        - name: Full-Stack Software Engineer Professional Certificate
+          start: October 2023
           end:
           organization: Meta
           credentialid: #111-222
@@ -117,8 +99,8 @@ certifications:
             Designing, building, and maintaining the online user experience through website and database management. 
 
             Skills obtained: HTML, CSS, Javascript, React, SQL, APIs, XML, JSON, CI/CD, Version Control 
-        - name: Database Engineer Professional Certificate (ongoing)
-          start: 2022
+        - name: Database Engineer Professional Certificate 
+          start: September 2023
           end:
           organization: Meta
           credentialid: #111-222
@@ -139,6 +121,24 @@ certifications:
             Applying prompt engineering to work effectively with LLMs (e.g., GPT-3.5, -4). Using prompt patterns to create prompt-based applications and to tap into powerful capabilities in LLMs. 
 
             Skills obtained: Prompt Engineering, Prompt Patterns
+
+cocurriculars:
+    title: Co-Curricular Activities 
+    info:
+      - role: Honorary General Secretary
+        time: Jul 2022 - Sep 2023 
+        organisation: Binjai Hall Council
+        details: |
+            - Led 5 portfolios (Sports, Cultural, Publicity and Publications, Residential Education)
+            - Managed governance policies of Binjai Hall Council through new Standard Operating Procedures (SOP), Standing Orders (SO), and process-specific documents and forms
+            - In charge of the AY22/23 CCA Records Exercise for >150 Binjai residents
+      - role: Founder
+        time: Aug 2021 - Present
+        organisation: Binjai AwaRE
+        details: |
+            - Materialised first organisational structure and guiding philosophy for undergraduate-led Residential Education club, Binjai AwaRE
+            - Oversaw ~20 events under the Environmental Awareness and Mental Wellbeing divisions
+            - Provided guidance and strategic advice on event processes and management, and publicity efforts
 
 footer: >
     <i class="fas fa-heart"></i>
